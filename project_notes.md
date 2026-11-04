@@ -16,3 +16,9 @@ What factors are associated with SBP in adults?
 
 \- Student name: data documentation
 
+
+
+\## Methods
+
+We will use descriptive statistics and regression analysis to explore associations between variables.
+
