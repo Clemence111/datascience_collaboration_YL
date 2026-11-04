@@ -6,6 +6,8 @@
 
 What question will our team investigate?
 
+What factors are associated with SBP in adults?
+
 
 
 \## Team
@@ -13,6 +15,4 @@ What question will our team investigate?
 \- Student name: analysis and visualisation
 
 \- Student name: data documentation
-
-
 
